@@ -1,0 +1,17 @@
+test_login:
+            test_login_data1:
+                username: admin
+                password: lzc4014688
+            test_login_data2:
+                username: lzc561500
+                password: 1234567
+#test_login:
+#          test_login1:
+#                  userName: "18756355278"
+#                  password: "lzc4014688"
+#                  screenName: "screen_login1"
+#          test_login2:
+#                  userName: "lzc4014688"
+#                  password: "1234567"
+#                  screenName: "screen_login2"
+
