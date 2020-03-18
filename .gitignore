@@ -130,3 +130,5 @@ dmypy.json
 #pytest
 geckodriver.log
 .pytest_cache
+.idea
+venv
